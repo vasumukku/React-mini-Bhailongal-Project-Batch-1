@@ -1,0 +1,79 @@
+.logo-style{
+  height: 15vh;
+  border-radius: 50%;
+  margin-top: 10px;
+
+
+}
+.logo-style:hover{
+  height: 10vh;
+}
+.main-nav{
+  display: flex;;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 2px solid grey;
+  /* margin-left: 20px;
+  margin-right: 20px; */
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 5px 5px 5px  black ;
+  /* background-image: linear-gradient(red,pink); */
+  background-image: radial-gradient(pink ,rgb(187, 71, 71));
+
+}
+.nav-info >ul {
+  display: flex;
+  gap: 30px;
+  font-size: 30px;
+  list-style: none;
+  /* font-weight: bold; */
+}
+.login-style{
+  background-color: transparent;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  
+
+}
+.login-style:hover{
+  background-color: red;
+  color: #fff;
+  border: None;
+  
+}
+.res-styel{
+  height: 30vh;
+  width: 40vh;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+margin-bottom: 0px;
+box-shadow: 10px 10px 10px rgb(94, 91, 91);
+
+}
+
+.res-card{
+  margin-top: 20px;
+  height: 50vh;
+  width: 40vh;
+  margin-bottom: 10px;
+  
+}
+.swiggylogo{
+  height: 10vh;
+padding-top: 40px;
+padding-left: 20px;
+}
+.footer-card{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 50px;
+  background-color: #000;
+  color: #fff;
+}
