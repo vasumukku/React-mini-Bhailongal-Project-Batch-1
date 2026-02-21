@@ -7,7 +7,7 @@ const Footer = () => {
      <div className='footer-card'>
 
         <div>
-          <img className='swiggylogo' src="https://media-assets.swiggy.com/portal/testing/seo-home/Group.svg" alt="swiggylogo" />
+          <img className='swiggylogo' src="https://png.pngtree.com/png-clipart/20200727/original/pngtree-restaurant-logo-design-vector-template-png-image_5441058.jpg" alt="swiggylogo" />
         </div>
 
         <div>

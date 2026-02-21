@@ -13,7 +13,7 @@ const Body = ({resname,img}) => {
           <h3>{resname}</h3>
            <p>Belgaum Locality</p>
           <p> ⭐4.3 (1.0K+ ratings)</p>
-          <button style={{backgroundColor:"yellow" ,border:"none" ,padding:"10px 30px", borderRadius:"30px"}}>View Details</button>
+          <button style={{backgroundColor:"yellow" ,border:"none" ,padding:"10px 30px", borderRadius:"30px" ,cursor:"pointer"}}>View Details</button>
          
         </div>
 
